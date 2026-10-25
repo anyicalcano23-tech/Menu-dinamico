@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "titulo": "Inicio",
+      "url": "#inicio"
+    },
+    {
+      "titulo": "Menú Gastronómico",
+      "url": "#menu",
+      "submenú": [
+        { "titulo": "Entradas Fías y Calientes", "url": "#entradas" },
+        { "titulo": "Platos Fuertes", "url": "#fuertes" },
+        { "titulo": "Postres de la Casa", "url": "#postres" },
+        { "titulo": "Bebidas y Cócteles", "url": "#bebidas" }
+      ]
+    },
+    {
+      "titulo": "Reservaciones",
+      "url": "#reservas"
+    },
+    {
+      "titulo": "Nosotros",
+      "url": "#nosotros"
+    },
+    {
+      "titulo": "Contacto",
+      "url": "#contacto"
+    }
+  ]
+}
